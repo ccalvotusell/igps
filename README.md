@@ -25,10 +25,12 @@ If you use these files, please cite:
 ```bibtex
 @article{CalvoTusell2022IGPS,
   title = {Time Evolution of the Millisecond Allosteric Activation of Imidazole Glycerol Phosphate Synthase},
-  author = {Calvó-Tusell, Carla and Maria-Solano, Miguel A. and Osuna, Sílvia and Feixas, Ferran},
+  author = {Calv{\'o}-Tusell, Carla and Maria-Solano, Miguel A. and Osuna, S{\'i}lvia and Feixas, Ferran},
   journal = {Journal of the American Chemical Society},
   year = {2022},
   volume = {144},
+  number = {16},
   pages = {7146--7159},
   doi = {10.1021/jacs.1c12629}
 }
+
